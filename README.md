@@ -11,4 +11,4 @@ Before creating a repository under the Scania organization, read below guideline
 ##Recources
 - Open Source Initiative, Licenses & Standards: https://opensource.org/licenses/
 - Need help to choose an OSS license? See: http://choosealicense.com/
-- ossforum mailbox at Scania 
+- ossforum mailbox at Scania : ossforum@scania.com
