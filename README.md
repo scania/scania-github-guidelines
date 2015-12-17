@@ -5,7 +5,7 @@ Before creating a repository under the Scania organization, read below guideline
 
 * Product Owners or Maintenance Managers takes decision if code should be open source and versioned on GitHub.com. Typicaly made via BIA/TVA.
 
-* It is the repository owner at GitHub that is the contact person for the code published here.
+* It is the repository owner at GitHub that is the contact person at Scania for code available here.
 
 
 ##Recources
